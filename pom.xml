@@ -21,7 +21,6 @@
         <lombok>1.18.32</lombok>
         <appacheCommons>3.14.0</appacheCommons>
     </properties>
-
     <dependencies>
         <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
         <dependency>
